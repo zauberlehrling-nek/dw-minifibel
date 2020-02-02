@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.14"
-     inkscape:cx="2672.2646"
-     inkscape:cy="-322.18095"
+     inkscape:zoom="1.07"
+     inkscape:cx="12.505999"
+     inkscape:cy="-1053.5712"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -107,6 +107,13 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide1900"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -179,8 +186,8 @@
        id="rect1596"
        width="105"
        height="148.5"
-       x="735"
-       y="337" />
+       x="-104.99999"
+       y="517" />
     <rect
        y="517"
        x="735"
@@ -239,7 +246,7 @@
        y="517" />
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.98973846px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.15528774px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.98973846px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.15528774px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="48.293564"
        y="330.89142"
        id="text948"><tspan
@@ -250,7 +257,7 @@
          style="stroke-width:2.15528774px">1</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.97299004px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.43496776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.97299004px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.43496776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="160.92648"
        y="328.52768"
        id="text952"><tspan
@@ -261,7 +268,7 @@
          id="tspan958">2</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="256.95911"
        y="328.30182"
        id="text956"><tspan
@@ -274,7 +281,7 @@
        id="text1582"
        y="326.32364"
        x="372.18884"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="stroke-width:2.18054485px"
          y="326.32364"
@@ -283,7 +290,7 @@
          sodipodi:role="line">4</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="468.13123"
        y="326.32364"
        id="text1586"><tspan
@@ -296,7 +303,7 @@
        id="text1590"
        y="326.32364"
        x="573.47003"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="stroke-width:2.18054485px"
          y="326.32364"
@@ -305,7 +312,7 @@
          sodipodi:role="line">6</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="673.86334"
        y="326.32364"
        id="text1594"><tspan
@@ -316,14 +323,14 @@
          style="stroke-width:2.18054485px">7</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="783.47003"
-       y="326.32364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.25914383px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18054485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-56.529957"
+       y="506.32364"
        id="text1616"><tspan
          sodipodi:role="line"
          id="tspan1614"
-         x="783.47003"
-         y="326.32364"
+         x="-56.529957"
+         y="506.32364"
          style="stroke-width:2.18054485px">8</tspan></text>
     <text
        id="text1780"
@@ -635,30 +642,30 @@
          sodipodi:role="line">W</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:#49161e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 829.99999,337 h 10 v 98.12129 l -4.89211,-8.78795 -5.10789,8.78795 z"
+       d="M -10,517.00001 H -2.7551107e-7 V 615.1213 L -4.8921103,606.33335 -10,615.1213 Z"
        id="path1598"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.42226505px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9a941;fill-opacity:1;stroke:none;stroke-width:0.22708735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="833.01886"
-       y="346.47913"
+       x="-6.9811306"
+       y="526.47913"
        id="text1602"><tspan
          sodipodi:role="line"
          id="tspan1600"
-         x="833.01886"
-         y="346.47913"
+         x="-6.9811306"
+         y="526.47913"
          style="font-size:4.23896408px;fill:#f9a941;fill-opacity:1;stroke-width:0.22708735px">D</tspan></text>
     <text
        id="text1606"
-       y="347.75711"
-       x="836.16846"
+       y="527.75714"
+       x="-3.8315332"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.99021745px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9a941;fill-opacity:1;stroke:none;stroke-width:0.18658286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:3.48288059px;fill:#f9a941;fill-opacity:1;stroke-width:0.18658286px"
-         y="347.75711"
-         x="836.16846"
+         y="527.75714"
+         x="-3.8315332"
          id="tspan1604"
          sodipodi:role="line">W</tspan></text>
     <path
@@ -942,8 +949,8 @@
        id="rect1574"
        style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="347"
-       x="755"
+       y="527"
+       x="-84.999992"
        height="118.5"
        width="73"
        id="rect1612"
@@ -1991,7 +1998,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="780.58258"
        y="621.79462"
        id="text1304"><tspan
@@ -1999,10 +2006,10 @@
          id="tspan1302"
          x="780.58258"
          y="621.79462"
-         style="stroke-width:0.26458332px;fill:#49161e;fill-opacity:1;">Dungeon World: Grundregelwerk</tspan></text>
+         style="fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Dungeon World: Grundregelwerk</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00471e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00471e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="774.8335"
        y="632.92194"
        id="text1308"><tspan
@@ -2010,10 +2017,10 @@
          id="tspan1306"
          x="774.8335"
          y="632.92194"
-         style="stroke-width:0.26458332px;fill:#00471e;fill-opacity:1;">Verhängnisvolle Weiten</tspan></text>
+         style="fill:#00471e;fill-opacity:1;stroke-width:0.26458332px">Verhängnisvolle Weiten</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#002c66;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#002c66;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="782.93176"
        y="642.93652"
        id="text1312"><tspan
@@ -2021,7 +2028,7 @@
          id="tspan1310"
          x="782.93176"
          y="642.93652"
-         style="stroke-width:0.26458332px;fill:#002c66;fill-opacity:1;">zauberlehrling.nek.github.io/dw-links</tspan></text>
+         style="fill:#002c66;fill-opacity:1;stroke-width:0.26458332px">zauberlehrling.nek.github.io/dw-links</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2056,20 +2063,20 @@
          id="tspan1328">vom 2020-01-28</tspan></text>
     <text
        id="text1332"
-       y="529.76941"
-       x="259.60941"
+       y="529.83118"
+       x="162.58148"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
-         y="529.76941"
-         x="259.60941"
+         y="529.83118"
+         x="162.58148"
          id="tspan1330"
          sodipodi:role="line">Zauber wirken 7–9</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1334"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-209.91224,177.30769)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-306.94014,177.3695)"><flowRegion
          id="flowRegion1336"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
            id="rect1338"
@@ -2112,16 +2119,16 @@
    id="flowSpan1454">steigern</flowSpan> (mächtigere Wesen werden aufmerksam, Aufmerk-samkeit ist schlimmer) – entweder verdeckt oder als offener Coutdown (lasse die Spielerin 5 Käst-chen zeichnen und jeweils eines abhaken).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="372.63626"
-       y="529.76941"
+       x="259.76178"
+       y="529.7348"
        id="text1460"><tspan
          sodipodi:role="line"
          id="tspan1458"
-         x="372.63626"
-         y="529.76941"
+         x="259.76178"
+         y="529.7348"
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Zauber wirken 6−</tspan></text>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-96.885412,177.30769)"
+       transform="matrix(0.26458333,0,0,0.26458333,-209.75981,177.27307)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1508"
        xml:space="preserve"><flowRegion
@@ -2206,7 +2213,7 @@
        xml:space="preserve"
        id="flowRoot1329"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,419.97574,-92.435693)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-420.02425,87.03515)"><flowRegion
          id="flowRegion1319"><rect
            id="rect1317"
            width="275.33948"
@@ -2216,26 +2223,28 @@
          id="flowPara1327"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start">Hauen und Stechen löst nicht aus wenn:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1826">    ⚔ Der Spieler noch nicht beschrieben hat, <flowSpan
+         id="flowPara1826">    ⚔ der Spieler noch nicht beschrieben hat, <flowSpan
    style="font-style:italic"
    id="flowSpan1828">wie </flowSpan>der SC genau angreift</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1353">    ⚔ der SC noch nicht nahe genug ist (z.B. weil die Waffe kürzer ist, als die des Gegners).</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1356">    ⚔ die Schuppen des Drachen zu dick sind, die Pfeile durch das Skelett durchfliegen, der Lich einen magischen Schild be-schworen hat, etc.</flowPara><flowPara
+         id="flowPara1356">    ⚔ die Schuppen des Drachen zu dick sind, die Pfeile durch das Skelett durchfliegen, der Lich einen magischen Schild beschworen hat, etc.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1377">    ⚔ keine Gegenwehr zu erwarten ist (das verur-sachet direkt Schaden)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1375" /></flowRoot>    <text
+         id="flowPara1886">    ⚔ <flowSpan
+   style="font-weight:normal"
+   id="flowSpan1894">Siehe Gefahr Trotzen (Kampf)</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="791.8808"
-       y="350.17789"
+       x="-48.11919"
+       y="529.64874"
        id="text1334"><tspan
          sodipodi:role="line"
          id="tspan1332"
-         x="791.8808"
-         y="350.17789"
+         x="-48.11919"
+         y="529.64874"
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Hauen und Stechen</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -2433,7 +2442,7 @@
        xml:space="preserve"
        id="flowRoot1678"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,420.15596,2.7757311)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,420.15596,3.3048978)"><flowRegion
          id="flowRegion1672"><rect
            id="rect1670"
            width="276.6756"
@@ -2446,7 +2455,7 @@
          id="flowPara1682">    ⚔ Etwas geht kaputt oder verloren (Tränke/Gift-phiolen/Gegenstände/Kleidung/Unterschlupf/Stützpfeiler)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1684">    ⚔ Gefahr für anderen SC/NSC</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,420.15596,21.82573)"
+       transform="matrix(0.26458333,0,0,0.26458333,420.15596,22.354897)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1696"
        xml:space="preserve"><flowRegion
@@ -2467,7 +2476,7 @@
        xml:space="preserve"
        id="flowRoot1721"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,420.15596,44.050732)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,420.15596,45.638233)"><flowRegion
          id="flowRegion1711"><rect
            id="rect1709"
            width="276.6756"
@@ -2484,7 +2493,7 @@
          id="flowPara1736">    ⚔ Gestige Erschöpfung/Müdigkeit (−1 IN/WE)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1738" /></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,420.15596,65.2174)"
+       transform="matrix(0.26458333,0,0,0.26458333,420.15596,67.863235)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1754"
        xml:space="preserve"><flowRegion
@@ -2505,9 +2514,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1776">    ⚔ Du verlierst die Beherrschung und wirst laut/grob/gewalttätig/unvorsichtig</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1778">    ⚔ NPC/Gottheit ist verärgert</flowPara><flowPara
+         id="flowPara1778">    ⚔ NSC/Gottheit ist verärgert</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1780">    ⚔ Nicht ganz wie erwartet. Bsp: NSC wird wü-tend statt eingeschüchtert, NSC ist nicht der, der du dachtest.</flowPara><flowPara
+         id="flowPara1780">    ⚔ Nicht wie erwartet (NSC ist nicht der, der du dachtest/erbetene Leistung ist nicht hinfreich oder hat unerwartete Nachteile)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
          id="flowPara1782">    ⚔ Es dauert länger</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
@@ -2529,5 +2538,111 @@
    style="font-style:italic"
    id="flowSpan1824">Du siehst wie das Monster sich dem anderen SC zu-wendet. Willst du einschreiten?</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
-         id="flowPara1818" /></flowRoot>  </g>
+         id="flowPara1818" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-420.02425,132.54348)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1856"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1839"><rect
+           y="1678.6228"
+           x="1266.8446"
+           height="246.06676"
+           width="275.33948"
+           id="rect1837" /></flowRegion><flowPara
+         id="flowPara1854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start">    ⚔ Verhandeln löst nicht aus, wenn das Druck-mittel fehlt oder niemand zuhört</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
+         id="flowPara1896">    ⚔ Wenn das Druckmittel fehlt, aber eine <flowSpan
+   style="font-style:italic"
+   id="flowSpan1898">un-mittelbare</flowSpan> Gefahr vorhanden ist, kann Gefahr Trotzen auslösen</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
+         id="flowPara1924">    ⚔ Wenn beides fehlt, macht der SL einen Spiel-zug. Siehe Gefahr Trotzen (sozial).</flowPara></flowRoot>    <text
+       id="text1860"
+       y="575.68622"
+       x="-48.11919"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         y="575.68622"
+         x="-48.11919"
+         id="tspan1858"
+         sodipodi:role="line">Verhandeln</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1914"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.02425,171.17274)"><flowRegion
+         id="flowRegion1904"><rect
+           id="rect1902"
+           width="275.33948"
+           height="246.06676"
+           x="1266.8446"
+           y="1678.6228" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
+         id="flowPara1906">    ⚔ Verhandeln löst nicht aus, wenn das Druck-mittel fehlt oder niemand zuhört.</flowPara><flowPara
+         id="flowPara1910"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start">    ⚔ Wenn das Druckmittel fehlt, aber eine <flowSpan
+   id="flowSpan1908"
+   style="font-style:italic">un-mittelbare</flowSpan> Gefahr vorhanden ist, kann Gefahr Trotzen auslösen</flowPara><flowPara
+         id="flowPara1912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start">    ⚔ Siehe Gefahr Trotzen (sozial)</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-48.11919"
+       y="613.7865"
+       id="text1918"><tspan
+         sodipodi:role="line"
+         id="tspan1916"
+         x="-48.11919"
+         y="613.7865"
+         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Wissen Kundtun</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-94.389481"
+       y="545.93073"
+       id="text1930"><tspan
+         sodipodi:role="line"
+         id="tspan1928"
+         x="-94.389481"
+         y="545.93073"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:serif;-inkscape-font-specification:serif;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Nenne Voraus-</tspan><tspan
+         sodipodi:role="line"
+         x="-94.05307"
+         y="549.4585"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:serif;-inkscape-font-specification:serif;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan1932">setzungen oder </tspan><tspan
+         sodipodi:role="line"
+         x="-94.05307"
+         y="552.98627"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:serif;-inkscape-font-specification:serif;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan1941">Konsequenzen </tspan><tspan
+         sodipodi:role="line"
+         x="-94.389481"
+         y="556.51404"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:serif;-inkscape-font-specification:serif;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan1934">und frage</tspan></text>
+    <text
+       id="text1945"
+       y="530.45514"
+       x="48.317726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         y="530.45514"
+         x="48.317726"
+         id="tspan1943"
+         sodipodi:role="line">Gewissheit erlangen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="48.317726"
+       y="578.08032"
+       id="text1949"><tspan
+         sodipodi:role="line"
+         id="tspan1947"
+         x="48.317726"
+         y="578.08032"
+         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Tiergefährte</tspan></text>
+  </g>
 </svg>
