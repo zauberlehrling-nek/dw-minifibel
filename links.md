@@ -6,4 +6,4 @@
 * Jeremy Strandberg: [In Defense of Discern Realities](https://spoutinglore.blogspot.com/2018/08/in-defense-of-discern-realities.html)
 * John Harper: [The Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html)
 * Reddit/Jeremy Strandberg: [Traps in Dungeon World](https://www.reddit.com/r/DungeonWorld/comments/7vbojb/traps_in_dungeon_world/)
-
+* Tim Franzke: [Animal Companion FAQ](https://docs.google.com/document/d/1MCAVL9DzB3EZqbzRb57YQgzZkuhE32x89vvSzVZ8Ke0/edit)
