@@ -7,3 +7,7 @@
 * John Harper: [The Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html)
 * Reddit/Jeremy Strandberg: [Traps in Dungeon World](https://www.reddit.com/r/DungeonWorld/comments/7vbojb/traps_in_dungeon_world/)
 * Tim Franzke: [Animal Companion FAQ](https://docs.google.com/document/d/1MCAVL9DzB3EZqbzRb57YQgzZkuhE32x89vvSzVZ8Ke0/edit)
+* John Lewis: [Hard Moves & GM Intrusions Part 1: Combat Calamities](http://rpgalchemy.com/hard-moves-gm-intrusions-1/)
+* John Lewis: [Hard Moves & GM Intrusions Part 2: Social Blunders](http://www.rpgalchemy.com/hard-moves-gm-intrusions-2/)
+* John Lewis: [Hard Moves & GM Intrusions Part 3: Magical Mishaps](http://www.rpgalchemy.com/hard-moves-gm-intrusions-part-3-magical-mishaps/)
+
