@@ -10,4 +10,7 @@
 * John Lewis: [Hard Moves & GM Intrusions Part 1: Combat Calamities](http://rpgalchemy.com/hard-moves-gm-intrusions-1/)
 * John Lewis: [Hard Moves & GM Intrusions Part 2: Social Blunders](http://www.rpgalchemy.com/hard-moves-gm-intrusions-2/)
 * John Lewis: [Hard Moves & GM Intrusions Part 3: Magical Mishaps](http://www.rpgalchemy.com/hard-moves-gm-intrusions-part-3-magical-mishaps/)
-
+* Jeremy Strandberg: [Drowning & Falling](https://spoutinglore.blogspot.com/2018/07/drowning-falling.html)
+* Jason Cordova: [The 7-3-1 Technique](https://www.gauntlet-rpg.com/blog/the-7-3-1-technique)
+* Kasper “Undreren” Allerslev: [Stealth in Dungeon World](https://partialsuccess.wordpress.com/2014/02/27/stealth-in-dungeon-world/)
+* John Stavropoulos: [X-Card](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?pli=1)
