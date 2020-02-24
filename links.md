@@ -14,3 +14,5 @@
 * Jason Cordova: [The 7-3-1 Technique](https://www.gauntlet-rpg.com/blog/the-7-3-1-technique)
 * Kasper “Undreren” Allerslev: [Stealth in Dungeon World](https://partialsuccess.wordpress.com/2014/02/27/stealth-in-dungeon-world/)
 * John Stavropoulos: [X-Card](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?pli=1)
+* stras: [A 16 HP Dragon](https://www.latorra.org/2012/05/15/a-16-hp-dragon/)
+* Reddit: [I don't think the story of the 16 HP Dragon really works.](https://www.reddit.com/r/DungeonWorld/comments/c5k7tu/i_dont_think_the_story_of_the_16_hp_dragon_really/)
