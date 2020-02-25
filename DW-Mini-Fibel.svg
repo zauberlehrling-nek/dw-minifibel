@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="218.8703"
-     inkscape:cy="-2571.7871"
+     inkscape:cx="1133.0901"
+     inkscape:cy="-2680.2853"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,88 +37,89 @@
      inkscape:window-height="978"
      inkscape:window-x="0"
      inkscape:window-y="31"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true">
     <sodipodi:guide
        position="105,0"
        orientation="1,0"
        id="guide815"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,148.5"
        orientation="0,1"
        id="guide817"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="21.760124,-40"
        orientation="0,1"
        id="guide1047"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="25.994694,-50"
        orientation="0,1"
        id="guide1049"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="210,-188.5"
        orientation="1,0"
        id="guide1055"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="315,-35.887804"
        orientation="1,0"
        id="guide1542"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="419.99999,-40.000001"
        orientation="1,0"
        id="guide1544"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="524.99999,-40.000001"
        orientation="1,0"
        id="guide1546"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="629.99999,-40.000001"
        orientation="1,0"
        id="guide1576"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="734.99998,-40.000001"
        orientation="1,0"
        id="guide1578"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="43.272974,-220"
        orientation="0,1"
        id="guide1930"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,0"
        orientation="1,0"
        id="guide1900"
-       inkscape:locked="false"
+       inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="368.93302,-427.28973"
        orientation="0,1"
        id="guide1516"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <inkscape:grid
        type="xygrid"
        id="grid2703" />
@@ -126,7 +127,7 @@
        position="-53.974997,-631.82496"
        orientation="0,1"
        id="guide2765"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -7415,46 +7416,48 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
            id="rect2629"
            width="275.80127"
-           height="425.8197"
+           height="433.81964"
            x="1632.7103"
            y="1337.0056"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara2648"><flowSpan
    style="font-weight:bold"
    id="flowSpan2695">Erschaffung:</flowSpan> </flowPara><flowPara
-         id="flowPara2963">    Auf Loyalität und Fertigkeiten verteilen: Weiler (2–5), Dorf (4–6), Burg (5–8), Stadt (6–10)</flowPara><flowPara
+         id="flowPara4950">    Auf Loyalität und Fertigkeiten verteilen: </flowPara><flowPara
+         id="flowPara4954">        Weiler (W4+1), Dorf (W4+2), </flowPara><flowPara
+         id="flowPara4956">        Burg (W4+4), Stadt (W4+6)</flowPara><flowPara
          id="flowPara2693"><flowSpan
    style="font-weight:bold"
    id="flowSpan2705">Loyalität:</flowSpan> </flowPara><flowPara
-         id="flowPara2965">    initial 0–2; <flowSpan
-   style="font-style:italic"
-   id="flowSpan2715">wenn durch Befehl in gefährlicher/entwürdigender/wahnwitziger Situation,</flowSpan> würfle +Loyalität. * 10+ er tut es * 7–9, auch, aber stellt später Forderungen</flowPara><flowPara
+         id="flowPara5007">    −3 bis +3; initial 0–2</flowPara><flowPara
          id="flowPara2687"><flowSpan
    style="font-weight:bold"
    id="flowSpan2691">Preis:</flowSpan> </flowPara><flowPara
-         id="flowPara2968">    Siegesrausch, Geld, Wissen, Ruhm, Ausschwei-fung, Gute Tat, Rache, Zuneigung; ➜ pro Sitzung</flowPara><flowPara
+         id="flowPara2968">    Siegesrausch, Geld, Wissen, Ruhm, Ausschwei-fung, Gute Tat, Rache, Zuneigung; ➜ +1 Loyalität</flowPara><flowPara
          id="flowPara2697"><flowSpan
    style="font-weight:bold"
    id="flowSpan2701">Fertigkeit:</flowSpan> </flowPara><flowPara
-         id="flowPara2970">    1–10; arbeiten nur für SC mit niedigerer Stufe; Haupt- und ggf. Nebenfertigkeiten</flowPara><flowPara
+         id="flowPara2970">    Haupt- und ggf. Nebenfertigkeiten; je 1–10; ar-beitet nur für SC mit höherer Stufe</flowPara><flowPara
          id="flowPara3295"
          style="font-weight:bold">Instinkt:</flowPara><flowPara
-         id="flowPara3297">    Plündern, rächen, Autorität in Frage stellen, kommendieren, unbedacht haneln, Versuchungen nachgeben, faulenzen, Gefahr/Strafe meiden</flowPara><flowPara
+         id="flowPara3297">    Plündern, rächen, Autorität in Frage stellen, kommandieren, unbedacht haneln, Versuchungen nachgeben, faulenzen, Gefahr/Strafe meiden</flowPara><flowPara
          id="flowPara3301"><flowSpan
    style="font-weight:bold"
-   id="flowSpan3322">Spielzüge:</flowSpan> analog zu Monstern</flowPara></flowRoot>    <text
+   id="flowSpan3322">Spielzüge:</flowSpan> </flowPara><flowPara
+         id="flowPara5063">    analog zu Monstern</flowPara><flowPara
+         id="flowPara5057" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="162.56113"
-       y="1022.748"
+       y="1033.3313"
        id="text2974"><tspan
          sodipodi:role="line"
          id="tspan2972"
          x="162.56113"
-         y="1022.748"
+         y="1033.3313"
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Gefolgsleute: Fertigkeiten</tspan></text>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-306.96035,669.2275)"
+       transform="matrix(0.26458333,0,0,0.26458333,-306.96035,679.81084)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3006"
        xml:space="preserve"><flowRegion
@@ -7474,12 +7477,8 @@
          style="font-weight:bold">Einbrecher:</flowPara><flowPara
          id="flowPara3069">    ⚔ Fallen: +Fert. auf <flowSpan
    style="font-style:italic"
-   id="flowSpan3272">Gefahr trotzen</flowSpan> und Rüs-tung; nimmt negative Effekte</flowPara><flowPara
+   id="flowSpan3272">Gefahr Trotzen</flowSpan> und Rüs-tung; nimmt negative Effekte</flowPara><flowPara
          id="flowPara3268">    ⚔ kann über Nacht Fallen entschärfen</flowPara><flowPara
-         id="flowPara3073"
-         style="font-weight:bold">Spielmann:</flowPara><flowPara
-         id="flowPara3075">    ⚔ in Tavernen ist man freundlich</flowPara><flowPara
-         id="flowPara3270">    ⚔ reduzierte Preise (−Fert.)</flowPara><flowPara
          id="flowPara3093" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3141"
@@ -7493,8 +7492,14 @@
            x="1632.7103"
            y="1337.0056"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara3139"
-         style="font-weight:bold">Priester:</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara4971">Spielmann:</flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara5024">    ⚔ in Tavernen ist man freundlich</flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara5028">    ⚔ reduzierte Preise (−Fert.)</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara5022">Priester:</flowPara><flowPara
          style="font-weight:normal"
          id="flowPara3314">    ⚔ +Fert. beim Heilen über Nacht</flowPara><flowPara
          style="font-weight:normal"
@@ -7520,20 +7525,20 @@
          id="flowPara3258">    ⚔ +Fert. auf Schaden</flowPara><flowPara
          id="flowPara3280">    ⚔ nimmt Gegenangriffe auf sich</flowPara></flowRoot>    <text
        id="text3330"
-       y="995.36359"
-       x="259.53101"
+       y="942.4469"
+       x="368.27475"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
-         y="995.36359"
-         x="259.53101"
+         y="942.4469"
+         x="368.27475"
          id="tspan3328"
          sodipodi:role="line">Namen</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3358"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-209.99059,641.84313)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-101.24685,588.92647)"><flowRegion
          id="flowRegion3334"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
            id="rect3332"
@@ -7549,7 +7554,7 @@
          style="font-weight:bold">Vornamen (weiblich):</flowPara><flowPara
          id="flowPara3423">    Thea, Alba, Cora, Fiba, Berta, Tara, Jorina, Tin-ka, Gerda, Viola, Lia, Aranka, Mara, Seraphina, Li-lija, Dalia, Augustina, Palmeria, Elenor, Borlenna, Ida, Lorena, Pria, Reba, Sibolina</flowPara><flowPara
          id="flowPara3425"
-         style="font-weight:bold">Nachnamen:</flowPara><flowPara
+         style="font-weight:bold">Nachnamen/Stätten:</flowPara><flowPara
          id="flowPara3427">    Wilden-, Neuen-, Roten-, Greifen-, Schnellen-, Eisen-, Falken-, Schwarzen-, Löwen-, Felsen, Ehren-, Lichten-, Kalten-, Randen-, Alten-, Raben-, Walden-, Schwanen-, Eichen-, Drachen-, Weißen-</flowPara><flowPara
          id="flowPara3429">-bach, -fels, -berg, -stein, -spitz, -tal, -burg, -bruch, -feld, -brück, -gart, -heim, -eck, -wald, -au</flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -8687,5 +8692,52 @@
          x="48.467979"
          id="tspan4946"
          sodipodi:role="line">Stätten: Standardwerte</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-306.96035,653.88166)"><flowRegion
+         id="flowRegion5081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
+           id="rect5079"
+           width="275.80127"
+           height="425.8197"
+           x="1632.7103"
+           y="1337.0056"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5097"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan5136">Befehligen:</flowSpan> Wenn Befehl gefährlich/demütigend/gegen Instinkt, würfle +Loyalität: 10+: wird erle-digt * 7–9: SL wählt eines:</flowPara><flowPara
+         id="flowPara5130">    ⚔ Loyalität um 1 reduzieren</flowPara><flowPara
+         id="flowPara5132">    ⚔ beschwert sich und stellt Forderungen</flowPara><flowPara
+         id="flowPara5134">    ⚔ handelt langsam aus Vorsicht/Faulheit/Furcht</flowPara></flowRoot>    <text
+       id="text5142"
+       y="1006.2114"
+       x="259.53091"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
+         y="1006.2114"
+         x="259.53091"
+         id="tspan5140"
+         sodipodi:role="line">NSCs</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-209.99058,651.6327)"><flowRegion
+         id="flowRegion5146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
+           id="rect5144"
+           width="275.80127"
+           height="425.8197"
+           x="1632.7103"
+           y="1337.0056"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5162"
+         style="font-weight:bold">Berufe:</flowPara><flowPara
+         id="flowPara5195">    Schuhmacher, Fischer, Metzger, Weber, Müller, Maurer, Quacksalber, Zimmerer, Hirte, Magd, Be-amter, Mönch, Schneider, Bäcker, Söldner, Gelehr-ter, Wundarzt,  Hufschmied, Bettler, Händler, Jä-ger, Bauer, Waffenschmied, Priester, Wache, Töpf-er, Ingenieur, Wagner, Wirt, Adliger, Arzt, Dieb</flowPara><flowPara
+         id="flowPara5197"
+         style="font-weight:bold">Merkmale:</flowPara><flowPara
+         id="flowPara5199" /></flowRoot>  </g>
 </svg>
