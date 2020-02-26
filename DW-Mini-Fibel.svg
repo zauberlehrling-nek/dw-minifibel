@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355343"
-     inkscape:cx="1204.3459"
-     inkscape:cy="-1127.637"
+     inkscape:zoom="2.8284274"
+     inkscape:cx="1557.8702"
+     inkscape:cy="-2877.1134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2721,8 +2721,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="fill:#49161e;fill-opacity:1"
        id="g878"
@@ -3644,7 +3643,7 @@
          style="font-size:2.11666656px;text-align:end;text-anchor:end;stroke-width:0.26458332px"
          y="1061.7271"
          x="408.28827"
-         sodipodi:role="line">Version 1.0.0</tspan><tspan
+         sodipodi:role="line">Version 1.0.1-S</tspan><tspan
          style="font-size:2.11666656px;text-align:end;text-anchor:end;stroke-width:0.26458332px"
          y="1065.4297"
          x="408.28827"
