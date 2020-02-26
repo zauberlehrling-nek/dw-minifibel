@@ -29,9 +29,9 @@ Die DungeonWorld-Mini-Fibel ist inspiriert von unzähligen Blogartikeln. Die all
 ### Kämpfe
 
 12. :warning: 16 HP Dragon
-   * :gb: stras: [A 16 HP Dragon](https://www.latorra.org/2012/05/15/a-16-hp-dragon/)
-   * :gb: Reddit: [I don't think the story of the 16 HP Dragon really works.](https://www.reddit.com/r/DungeonWorld/comments/c5k7tu/i_dont_think_the_story_of_the_16_hp_dragon_really/)
-   * :gb: bms42: [My greatest dragon fight of all time!](https://www.reddit.com/r/DungeonWorld/comments/414myt/my_greatest_dragon_fight_of_all_time/)
+    * :gb: stras: [A 16 HP Dragon](https://www.latorra.org/2012/05/15/a-16-hp-dragon/)
+    * :gb: Reddit: [I don't think the story of the 16 HP Dragon really works.](https://www.reddit.com/r/DungeonWorld/comments/c5k7tu/i_dont_think_the_story_of_the_16_hp_dragon_really/)
+    * :gb: bms42: [My greatest dragon fight of all time!](https://www.reddit.com/r/DungeonWorld/comments/414myt/my_greatest_dragon_fight_of_all_time/)
 13. :gb: Tim Franzke: [A Guide to Pacing in Fights](https://docs.google.com/document/d/15pBiFL6EhlmygogWZjbUUA_uRgLk4hsbZUcXGsqkoUo/edit)
 14. :gb: PrimarchtheMage: [So... about Mass Combat](https://www.reddit.com/r/DungeonWorld/comments/7qvlb9/so_about_mass_combat/dssfq7h/)
 
@@ -46,10 +46,10 @@ Die DungeonWorld-Mini-Fibel ist inspiriert von unzähligen Blogartikeln. Die all
 
 17. :gb: [Dungeon World: Inspiration & Starting Questions](https://drive.google.com/file/d/0BzeF5GXNEsnfVHlBYk01dDN3OHc/view)
 18. Dungeon Starters
-   * :de: [Dungeon Starters](https://www.system-matters.de/shop/dungeon-world-dungeon-starters/)
-   * :gb: Marshall Miller: [Marshall Dungeon Starters](http://www.finemessgames.com/DWsupplements/dungeonstarters)
-   * :gb: Mark Tygart: [Tygart Dungeon Starters](https://drive.google.com/drive/folders/0B7cav44145d9OXZFNjNpWFdBRFU)
-   * :gb: [Dragons in my house](https://dragonsinmyhouse.blogspot.com/2014/01/dungeon-world-adventure-starters.html)
+    * :de: [Dungeon Starters](https://www.system-matters.de/shop/dungeon-world-dungeon-starters/)
+    * :gb: Marshall Miller: [Marshall Dungeon Starters](http://www.finemessgames.com/DWsupplements/dungeonstarters)
+    * :gb: Mark Tygart: [Tygart Dungeon Starters](https://drive.google.com/drive/folders/0B7cav44145d9OXZFNjNpWFdBRFU)
+    * :gb: [Dragons in my house](https://dragonsinmyhouse.blogspot.com/2014/01/dungeon-world-adventure-starters.html)
 
 
 ### Erzählstruktur, One-Shots
