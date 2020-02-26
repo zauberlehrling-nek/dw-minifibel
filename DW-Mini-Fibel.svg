@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="1151.2664"
-     inkscape:cy="-2608.0725"
+     inkscape:zoom="0.35355343"
+     inkscape:cx="1129.4535"
+     inkscape:cy="-1145.6024"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -651,6 +651,27 @@
          x="253.86334"
          y="918.14862"
          style="stroke-width:2.18054485px">27</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4317"
+       width="105"
+       height="148.5"
+       x="420"
+       y="928.82495" />
+    <rect
+       y="928.82495"
+       x="525"
+       height="148.5"
+       width="105"
+       id="rect4321"
+       style="opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4325"
+       width="105"
+       height="148.5"
+       x="630"
+       y="928.82495" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2079,6 +2100,27 @@
        width="73"
        id="rect2900"
        style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="938.82495"
+       x="432"
+       height="118.5"
+       width="81"
+       id="rect4319"
+       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4323"
+       width="81"
+       height="118.5"
+       x="537"
+       y="938.82495" />
+    <rect
+       y="938.82495"
+       x="642"
+       height="118.5"
+       width="81"
+       id="rect4327"
+       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#002c66;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2679,7 +2721,8 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        style="fill:#49161e;fill-opacity:1"
        id="g878"
@@ -12189,5 +12232,53 @@
            id="tspan1199-6-21"
            sodipodi:role="line">9</tspan></text>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,530.30747,921.16033)"><flowRegion
+         id="flowRegion4209"><rect
+           id="rect4211"
+           width="312.13718"
+           height="463.66"
+           x="26.263966"
+           y="63.385155" /></flowRegion><flowPara
+         id="flowPara4213"
+         style="font-weight:bold;font-size:18.66666603px;line-height:125%;text-align:start;text-anchor:start">Anleitung zum Drucken:</flowPara><flowPara
+         style="font-size:18.66666603px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4238" /><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4246">    ⚔ Beidseitig drucken</flowPara><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4248">    ⚔ Einmal quer in der Mitte schnei-den. Jetzt hat man 7 beidseitig be-druckte Doppelseiten (und einen Rest mit diesem Text hier).</flowPara><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4250">    ⚔ die Seiten in der passenden Reihenfolge übereinander legen und einmal in der Mitte falten.</flowPara><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4252">    ⚔ An der Falz zweimal tackern</flowPara><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4244" /><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4242" /><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4240">Eine Variante zum digitalen Betrachten ist online verfügbar:</flowPara><flowPara
+         style="font-size:16px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4215" /><flowPara
+         style="font-size:12px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4217">https://github.com/zauberlehrling-nek/dw-minifibel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4207-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,634.94448,921.66869)"><flowRegion
+         id="flowRegion4209-6"><rect
+           id="rect4211-7"
+           width="312.13718"
+           height="463.66"
+           x="26.263966"
+           y="63.385155" /></flowRegion><flowPara
+         id="flowPara4213-5"
+         style="font-size:18.66666603px;line-height:125%;text-align:start;text-anchor:start">Eine Variante zum (beidseitigen) Drucken ist online verfügbar:</flowPara><flowPara
+         style="font-size:18.66666603px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4215-3" /><flowPara
+         style="font-size:12px;line-height:125%;text-align:start;text-anchor:start"
+         id="flowPara4217-5">https://github.com/zauberlehrling-nek/dw-minifibel</flowPara></flowRoot>  </g>
 </svg>
