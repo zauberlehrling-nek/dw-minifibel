@@ -19,3 +19,4 @@
 * John Aegard: [Tight Dungeon World One-Shots](https://docs.google.com/document/d/17ypjtlHfcwqrU_-x4b7o0e8tZ_dN2TiNLUu48MLAw7Y/edit#heading=h.t8tfotiv4mt1)
 * Wikipedia: [Regeldrama](https://de.wikipedia.org/wiki/Regeldrama)
 * bms42: [GM’ing Dungeon World: Inside My Head](https://docs.google.com/document/d/1n_71Ac-7ONP65pZIiVxlPsCsj0RzXjTFMNTaUiQq27I/edit#heading=h.bta5by6v3np)
+* Tim Franzke: [Things to do in the first session](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit)
