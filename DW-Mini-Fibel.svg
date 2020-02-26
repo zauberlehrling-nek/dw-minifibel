@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="1133.0901"
-     inkscape:cy="-2680.2853"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1325.9831"
+     inkscape:cy="-2731.0021"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1675,7 +1675,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 577.69786,740.78602 v 0"
+       d="M 0,0 V 0"
        id="path4197"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -3026,7 +3026,7 @@
          id="flowPara2097"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.26458332px">Überlege nach jeder Sitzung, wo dir die Prinzipien geholfen hätten, deine Agenda zu verfolgen.</flowPara></flowRoot>    <g
        id="g4615-3"
-       transform="translate(130.344,795.30915)">
+       transform="translate(130.344,797.955)">
       <g
          id="g1175-6"
          transform="matrix(0.38711187,0,0,0.38711187,135.71876,142.90064)"
@@ -3081,7 +3081,7 @@
     </g>
     <g
        id="g4626-2"
-       transform="translate(130.49181,797.04007)">
+       transform="translate(130.49181,798.09841)">
       <g
          style="fill:#49161e;fill-opacity:1;stroke:#49161e;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.38711187,0,0,0.38711187,135.57095,151.9166)"
@@ -3178,67 +3178,67 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="360.58258"
-       y="1033.6196"
+       y="1036.2655"
        id="text1304"><tspan
          sodipodi:role="line"
          id="tspan1302"
          x="360.58258"
-         y="1033.6196"
+         y="1036.2655"
          style="fill:#49161e;fill-opacity:1;stroke-width:0.26458332px">Dungeon World: Grundregelwerk</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00471e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="354.8335"
-       y="1044.7469"
+       y="1045.8053"
        id="text1308"><tspan
          sodipodi:role="line"
          id="tspan1306"
          x="354.8335"
-         y="1044.7469"
+         y="1045.8053"
          style="fill:#00471e;fill-opacity:1;stroke-width:0.26458332px">Verhängnisvolle Weiten</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#002c66;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="362.93176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#002c66;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="337.90768"
        y="1054.7615"
        id="text1312"><tspan
          sodipodi:role="line"
          id="tspan1310"
-         x="362.93176"
+         x="337.90768"
          y="1054.7615"
-         style="fill:#002c66;fill-opacity:1;stroke-width:0.26458332px">zauberlehrling.nek.github.io/dw-links</tspan></text>
+         style="text-align:start;text-anchor:start;fill:#002c66;fill-opacity:1;stroke-width:0.26458332px">github.com/zauberlehrling-nek/dw-minifibel/links.md</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="326.93677"
-       y="1064.5465"
+       y="1063.4882"
        id="text1316"><tspan
          sodipodi:role="line"
          id="tspan1314"
          x="326.93677"
-         y="1064.5465"
+         y="1063.4882"
          style="font-size:2.11666656px;text-align:start;text-anchor:start;stroke-width:0.26458332px">CC-BY-SA Zauberlehrling Nek</tspan><tspan
          sodipodi:role="line"
          x="326.93677"
-         y="1068.2491"
+         y="1067.1908"
          style="font-size:2.11666656px;text-align:start;text-anchor:start;stroke-width:0.26458332px"
          id="tspan1318">https://creativecommons.org/licenses/by-sa/4.0/</tspan></text>
     <text
        id="text1324"
-       y="1064.9021"
+       y="1063.8438"
        x="408.28827"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1322"
          style="font-size:2.11666656px;text-align:end;text-anchor:end;stroke-width:0.26458332px"
-         y="1064.9021"
+         y="1063.8438"
          x="408.28827"
-         sodipodi:role="line">Version 0.0.1</tspan><tspan
+         sodipodi:role="line">Version 1.0.0-S</tspan><tspan
          style="font-size:2.11666656px;text-align:end;text-anchor:end;stroke-width:0.26458332px"
-         y="1068.6047"
+         y="1067.5464"
          x="408.28827"
          sodipodi:role="line"
-         id="tspan1328">vom 2020-01-28</tspan></text>
+         id="tspan1328">vom 2020-02-26</tspan></text>
     <text
        id="text1332"
        y="529.83118"
@@ -7524,39 +7524,6 @@
          style="font-weight:bold">Krieger:</flowPara><flowPara
          id="flowPara3258">    ⚔ +Fert. auf Schaden</flowPara><flowPara
          id="flowPara3280">    ⚔ nimmt Gegenangriffe auf sich</flowPara></flowRoot>    <text
-       id="text3330"
-       y="942.4469"
-       x="368.27475"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
-         y="942.4469"
-         x="368.27475"
-         id="tspan3328"
-         sodipodi:role="line">Namen</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3358"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-101.24685,588.92647)"><flowRegion
-         id="flowRegion3334"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
-           id="rect3332"
-           width="275.80127"
-           height="425.8197"
-           x="1632.7103"
-           y="1337.0056"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara3356"
-         style="font-weight:bold">Vornamen (männlich):</flowPara><flowPara
-         id="flowPara3419">    Benzel, Tanold, Bergon, Berthold, Gunther, Konrad, Erno, Tamas, Silas, Gebhard, Delwyn, Darian, Edwyn, Filibert, Dimas, Rundrik, Greger, Thergon, Adrian, Ilberecht, Imrich, Heinrich, Gerion, Leonhard, Podger</flowPara><flowPara
-         id="flowPara3421"
-         style="font-weight:bold">Vornamen (weiblich):</flowPara><flowPara
-         id="flowPara3423">    Thea, Alba, Cora, Fiba, Berta, Tara, Jorina, Tin-ka, Gerda, Viola, Lia, Aranka, Mara, Seraphina, Li-lija, Dalia, Augustina, Palmeria, Elenor, Borlenna, Ida, Lorena, Pria, Reba, Sibolina</flowPara><flowPara
-         id="flowPara3425"
-         style="font-weight:bold">Nachnamen/Stätten:</flowPara><flowPara
-         id="flowPara3427">    Wilden-, Neuen-, Roten-, Greifen-, Schnellen-, Eisen-, Falken-, Schwarzen-, Löwen-, Felsen, Ehren-, Lichten-, Kalten-, Randen-, Alten-, Raben-, Walden-, Schwanen-, Eichen-, Drachen-, Weißen-</flowPara><flowPara
-         id="flowPara3429">-bach, -fels, -berg, -stein, -spitz, -tal, -burg, -bruch, -feld, -brück, -gart, -heim, -eck, -wald, -au</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-92.792747"
@@ -8002,7 +7969,7 @@
          id="tspan3291">Nicht mit Vollpl.</tspan></text>
     <g
        id="g2877-8-1-0"
-       transform="translate(219.68067,655.39823)">
+       transform="translate(219.68067,659.10242)">
       <rect
          y="364.40259"
          x="112.51405"
@@ -8024,12 +7991,12 @@
     </g>
     <text
        id="text3321"
-       y="1024.0011"
+       y="1027.7053"
        x="338.83035"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="text-align:start;text-anchor:start;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
-         y="1024.0011"
+         y="1027.7053"
          x="338.83035"
          id="tspan3319"
          sodipodi:role="line">Wichtig</tspan></text>
@@ -8370,9 +8337,9 @@
          style="font-weight:bold;line-height:150%;text-align:end;text-anchor:end"
          id="flowPara3846">Beamtensold/Monat</flowPara><flowPara
          style="font-weight:bold;line-height:150%;text-align:end;text-anchor:end"
-         id="flowPara3850">Eskorte/Tag (Banditen)</flowPara><flowPara
+         id="flowPara3850">Eskorte/Tag (➜Banditen)</flowPara><flowPara
          style="font-weight:bold;line-height:150%;text-align:end;text-anchor:end"
-         id="flowPara3934">Eskorte/Tag (Monster)</flowPara><flowPara
+         id="flowPara3934">Eskorte/Tag (➜Monster)</flowPara><flowPara
          style="font-weight:bold;line-height:150%;text-align:end;text-anchor:end"
          id="flowPara3856">gewöhnlicher Mord</flowPara><flowPara
          style="font-weight:bold;line-height:150%;text-align:end;text-anchor:end"
@@ -8422,7 +8389,7 @@
          style="font-style:normal;font-weight:normal;line-height:150%;text-align:start;text-anchor:start"
          id="flowPara3926">30</flowPara><flowPara
          style="font-style:normal;font-weight:normal;line-height:150%;text-align:start;text-anchor:start"
-         id="flowPara3896">75</flowPara><flowPara
+         id="flowPara3896">50–100</flowPara><flowPara
          style="font-style:normal;font-weight:normal;line-height:150%;text-align:start;text-anchor:start"
          id="flowPara3898">20</flowPara><flowPara
          style="font-style:normal;font-weight:normal;line-height:150%;text-align:start;text-anchor:start"
@@ -8466,12 +8433,12 @@
          y="800.34528"
          x="513.65106"
          sodipodi:role="line"
-         id="tspan3965">Zweck, Sold </tspan><tspan
+         id="tspan3965">Zweck &amp; Sold </tspan><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:serif;-inkscape-font-specification:serif;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
          y="803.87305"
          x="513.31464"
          sodipodi:role="line"
-         id="tspan3967">und Charisma</tspan></text>
+         id="tspan3967">−Charisma</tspan></text>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-522.33816,662.17754)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -8712,12 +8679,12 @@
          id="flowPara5132">    ⚔ beschwert sich und stellt Forderungen</flowPara><flowPara
          id="flowPara5134">    ⚔ handelt langsam aus Vorsicht/Faulheit/Furcht</flowPara></flowRoot>    <text
        id="text5142"
-       y="1006.2114"
+       y="1005.6823"
        x="259.53091"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sidhe;-inkscape-font-specification:sidhe;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#49161e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:3.52777767px;fill:#49161e;fill-opacity:1;stroke-width:0.26458332px"
-         y="1006.2114"
+         y="1005.6823"
          x="259.53091"
          id="tspan5140"
          sodipodi:role="line">NSCs</tspan></text>
@@ -8725,7 +8692,7 @@
        xml:space="preserve"
        id="flowRoot5164"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-209.99058,651.6327)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-209.99058,652.16187)"><flowRegion
          id="flowRegion5146"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"><rect
            id="rect5144"
@@ -8734,10 +8701,47 @@
            x="1632.7103"
            y="1337.0056"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara5162"
-         style="font-weight:bold">Berufe:</flowPara><flowPara
-         id="flowPara5195">    Schuhmacher, Fischer, Metzger, Weber, Müller, Maurer, Quacksalber, Zimmerer, Hirte, Magd, Be-amter, Mönch, Schneider, Bäcker, Söldner, Gelehr-ter, Wundarzt,  Hufschmied, Bettler, Händler, Jä-ger, Bauer, Waffenschmied, Priester, Wache, Töpf-er, Ingenieur, Wagner, Wirt, Adliger, Arzt, Dieb</flowPara><flowPara
-         id="flowPara5197"
-         style="font-weight:bold">Merkmale:</flowPara><flowPara
-         id="flowPara5199" /></flowRoot>  </g>
+         id="flowPara5195"
+         style="font-weight:bold">Berufe: </flowPara><flowPara
+         id="flowPara2977">    Schuhmacher, Fischer, Metzger, Weber, Müller, Maurer, Quacksalber, Zimmerer, Hirte, Magd, Be-amter, Mönch, Schneider, Bäcker, Söldner, Gelehr-ter,  Hufschmied, Bettler, Händler, Jäger, Bauer, Waffenschmied, Priester, Wache, Töpfer, Barde, In-genieur, Wagner, Köhler, Wirt, Adliger, Arzt, Dieb, Kesselflicker, Henker, Bader, Totengräber, Gerber, Brauer, Abdecker, Knappe, Matrose</flowPara><flowPara
+         id="flowPara2981"
+         style="font-weight:bold">Adlige:</flowPara><flowPara
+         id="flowPara2983">    Ritter, Freiherr/Baron, (Mark/Pfalz/Land/Burg-) Graf, Fürst, (Groß/Erz-)Herzog, König, Kaiser</flowPara><flowPara
+         id="flowPara3010"
+         style="font-weight:bold">Kleriker:</flowPara><flowPara
+         id="flowPara3008">    Bruder, Prior, Abt, Primas, Großmeister, Patri-arch, Nuntius</flowPara><flowPara
+         id="flowPara3006" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-104.81872,584.56082)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:serif;-inkscape-font-specification:serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5233"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
+         id="flowRegion5217"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start"
+           y="1337.0056"
+           x="1632.7103"
+           height="433.81937"
+           width="305.5022"
+           id="rect5215" /></flowRegion><flowPara
+         id="flowPara5231"
+         style="font-weight:bold">Beamte/Würdenträger:</flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara3018">    Herold, Schulze, Schreiber, Hofzwerg, Mundschenk,  Kämmerer, Truchsess, Vogt, Kastellan, Statthalter, Hof-marschall, Kanzler, Prokurator, Münzmeister, Geheim-rat, Senator, Tribun, Magistrat, Prätor, Konsul</flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara3014"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3016">Merkmale:</flowSpan> </flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara2994">    Entstellt (fehlende Zähne/Augen), dauerhafte Verletz-ung (Bein/Arm), Narbe, (un)gepflegt, groß/dick/klein/dünn, Haare lang/wirr/grau/rot/Glatze, Nase groß/krumm/warzig, Sommersprossen, Pickel</flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara2990"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan2996">Verhalten:</flowSpan> </flowPara><flowPara
+         style="font-weight:normal"
+         id="flowPara2998">    unsicher, naiv, abergläubisch, stur, verträumt, para-noid, verschwenderisch, ängstlich, fröhlich, ordentlich, streitlustig, zuverlässig, arro-gant, gierig, unnahbar, geizig, selbstverliebt, fana-tisch, draufgängerisch, neu-gierig, faul</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara2988">Darstellung:</flowPara><flowPara
+         id="flowPara3020">    ⚔ Stimme/Auftreten: tief/hoch, leise/laut, kratzig/weich/ominös, lispeln, flüstern, rollendes R, nasal, treudoof, hochnäsig, barsch, schwerer Atem, seufzen, reuspern, Dialekt, wiederholende Floskeln</flowPara><flowPara
+         id="flowPara3026">    ⚔ Körperhaltung: aufrecht/gebeugt/schief</flowPara><flowPara
+         id="flowPara3024">    ⚔ Hände: am Kinn, reiben, ausladende Bewegung, </flowPara></flowRoot>  </g>
 </svg>
