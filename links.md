@@ -68,11 +68,11 @@ Die DungeonWorld-Mini-Fibel ist inspiriert von unzähligen Blogartikeln. Die all
 
 23. :gb: John Lewis: [Verisimilitude: The Importance of Names](http://www.rpgalchemy.com/verisimilitude-the-importance-of-names/)
 24. :gb: Jeremy Strandberg: [Drowning & Falling](https://spoutinglore.blogspot.com/2018/07/drowning-falling.html)
+25. :warning: :de: [Der Blutholzbaum - Spontan](https://www.youtube.com/watch?v=6gTyodOpqU8) -- einer der wohl großartigsten DW One-Shots überhaupt
 
 
 ### Weitere Link-Listen
 
-25. :warning: :de: [Der Blutholzbaum - Spontan](https://www.youtube.com/watch?v=6gTyodOpqU8) -- einer der wohl großartigsten DW One-Shots überhaupt
 26. Yochai Gal: [Dungeon World Syllabus](https://docs.google.com/document/d/1ORjM3sxhQrwNI_chlNzYFMD5OFHj7u-Rs_gY4kHkzO0/edit)
 27. Sophia Brandt: [Dungeon World Resources](https://dieheart.net/dungeon-world-resources/)
 
